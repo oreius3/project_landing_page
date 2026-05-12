@@ -1,8 +1,8 @@
 body {
   display: flex;
   flex-direction: column;
-  font-family: Roboto;
-  align-items: center;
+  font-family: "Roboto", Arial, sans-serif;
+  align-items: space-between;
 }
 
 top {
@@ -20,7 +20,6 @@ images {
   display: flex;
   flex-direction: row;
 }
-
 image {
   border-width: 5px;
   border-color: #3882f6;
