@@ -12,6 +12,13 @@ top {
 }
 
 middle {
+  display: flex;
+  flex-direction: column;
+}
+
+images {
+  display: flex;
+  flex-direction: row;
 }
 
 image {
