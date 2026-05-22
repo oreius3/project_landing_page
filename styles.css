@@ -172,7 +172,6 @@ a {
 }
 
 .Sign_upb {
-  margin-right: 100px;
   background-color: #3882f6;
   color: white;
   border: 1px solid white;
@@ -182,12 +181,12 @@ a {
 
 .sign_up {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   padding: 30px;
   margin: 50px 50px;
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 500px;
+  margin-right: 500px;
   background-color: #3882f6;
   border-radius: 5px;
 }
@@ -195,6 +194,7 @@ a {
 .footer {
   display: flex;
   padding: 10px;
+  padding: 20px 20px;
   background-color: #1f2937;
   color: #e5e7eb;
   justify-content: center;
